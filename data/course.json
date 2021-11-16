@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "95cfcb22-6e34-0f5e-6f0a-0947d35a8b07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Comparative Security and Sustainability",
+  "course_description": "This course focuses on the complexities associated with security and sustainability of states in international relations. Covering aspects of theory, methods and empirical analysis, the course is in three parts, and each consists of seminar sessions focusing on specific topics.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.560",
+  "primary_course_number": "17.559",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
